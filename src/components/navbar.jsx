@@ -1,12 +1,12 @@
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/logoA.png";
 
 const Navbar = ({ handleSidebar }) => {
   const navbarMenu = [
     {
-      name: "Home",
+      name: "Sobre mi",
       link: "#",
     },
     {

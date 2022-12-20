@@ -1,4 +1,4 @@
-import Person from "../assets/person.png";
+import Person from "../assets/animacion.png";
 
 const Hero = () => {
   const socialMedia = [
@@ -37,7 +37,7 @@ full stack developer</span>
           </div>
           <div className="mb-4 text-justify text-[13px] font-medium text-light lg:max-w-[479px] lg:text-[15px]">
             <span>
-            Currently I design, new projects and web application sites, both on the client side (Front-end, UX / UI) and on the server side (Back-end).
+            Hi, I'm Andreina Velazquez.Currently I design, new projects and web application sites, both on the client side (Front-end, UX / UI) and on the server side (Back-end).
 Continuously learning and acquiring new skills based on current and future demands and technological trends in the field of design and development of web applications in general.
 Passionate about the work I do, offering and contributing my knowledge, skills
 and experience, as well as new ideas, solutions, customization and quality monitoring of the client and his objective in each project.

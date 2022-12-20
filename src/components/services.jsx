@@ -6,9 +6,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Services = () => {
   const serviceList = [
     {
-      name: "Website Development",
+      name: "Web-tributo",
       description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Realize este proyecto que es una web tributo .",
       icon: faDisplay,
     },
     //{
@@ -18,9 +18,21 @@ const Services = () => {
      // icon: faMobileScreen,
    // },
     {
+      name: "Juego en Javascript",
+      description:
+        "Realize un pequeño juego llamado Piedra Papel o tijera",
+      icon: faGamepad,
+    },
+    {
+      name: "Calculadora Javascript",
+      description:
+        "Realize una calculadora funcional que realiza operaciones basicas.",
+      icon: faGamepad,
+    },
+    {
       name: "Web-page design",
       description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "He realizado diseños de mis proyectos..",
       icon: faGamepad,
     },
   ];
