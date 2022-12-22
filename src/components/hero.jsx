@@ -1,5 +1,7 @@
 import Person from "../assets/animacion.png";
 
+
+
 const Hero = () => {
   const socialMedia = [
     {
@@ -16,6 +18,8 @@ const Hero = () => {
     },
   ];
 
+  
+
   return (
     <div className="relative">
       <div className="inset-x-0 mt-8 flex items-center justify-center font-roboto-slab text-[50px] font-black uppercase tracking-tighter text-white md:absolute md:top-[15%] md:mt-[unset] md:text-[145px] lg:top-[10%] lg:text-[180px] xl:top-[15%] xl:text-[250px]">
@@ -24,6 +28,7 @@ const Hero = () => {
       <div className="relative mx-auto flex h-full flex-col-reverse justify-center md:mt-8 md:max-w-none md:flex-row md:gap-x-6 xl:-mt-2">
         <div className="flex flex-none">
           <img
+           return
             src={Person}
             alt="Person"
             className="-mt-14 w-[250px] object-contain sm:w-[345px] md:mt-auto md:w-[400px] lg:w-[450px] xl:w-[560px]"

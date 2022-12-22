@@ -8,8 +8,9 @@ const Services = () => {
     {
       name: "Web-tributo",
       description:
-        "Realize este proyecto que es una web tributo .",
+        "I made my first tribute website.",
       icon: faDisplay,
+      url: 'https://andreinavlqz.github.io/web-tributo/'
     },
     //{
      // name: "Mobile App Development",
@@ -20,20 +21,24 @@ const Services = () => {
     {
       name: "Juego en Javascript",
       description:
-        "Realize un pequeño juego llamado Piedra Papel o tijera",
+        "Play a little game called Rock Paper Scissors.",
       icon: faGamepad,
+      url: 'https://github.com/Andreinavlqz/juego-de-piedra-papel-y-tijera-javascript'
     },
     {
       name: "Calculadora Javascript",
       description:
-        "Realize una calculadora funcional que realiza operaciones basicas.",
+        "Perform a calculator that performs basic operations like addition, subtraction, multiplication, and division..",
       icon: faGamepad,
+      url: 'https://andreinavlqz.github.io/calculadora-javascript/'
     },
     {
-      name: "Web-page design",
+      name: "",
       description:
-        "He realizado diseños de mis proyectos..",
+        "I have made designs of my projects..",
       icon: faGamepad,
+      
+      
     },
   ];
 
@@ -54,10 +59,15 @@ const Services = () => {
                   <FontAwesomeIcon
                     icon={service.icon}
                     className="text-5xl md:text-6xl"
+                    
+                    
                   />
+                  
                 </div>
                 <div className="mb-[10px] font-roboto-slab text-[15px] font-bold text-white md:text-lg lg:text-xl">
-                  <span>{service.name}</span>
+                  
+                  <a href={service.url} className= "button"><span>{service.name}</span></a>
+                  
                 </div>
                 <div className="font-poppins text-[13px] font-semibold text-secondary lg:text-[15px]">
                   <span>{service.description}</span>

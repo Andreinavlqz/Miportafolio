@@ -4,7 +4,7 @@ import { faStickyNote } from "@fortawesome/free-solid-svg-icons";
 import { faUser } from "@fortawesome/free-solid-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Logo from "../assets/white-av-brush-letter-logo-design-creative-brushed-letters-icon-logo-vector.jpg";
+import Logo from "..//assets/canva.png";
 
 const Contact = () => {
   const contacts = [

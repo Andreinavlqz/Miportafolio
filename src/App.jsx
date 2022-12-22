@@ -7,7 +7,7 @@ import Navbar from "./components/navbar";
 import Opacity from "./components/opacity";
 import Services from "./components/services";
 import Sidebar from "./components/sidebar";
-import Testimonials from "./components/testimonials";
+import Testimonials from "./components/abilities";
 
 const App = () => {
   const [show, setShow] = useState(false);
