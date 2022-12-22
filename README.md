@@ -1,9 +1,9 @@
 #  Portfolio Andreina
 Mockus del proyecto
 ![Nike](/src/assets/parte1.png)
-![Nike](//src/assets/parte2.png)
-![Nike](//src/assets/parte3.png)
-![Nike](//src/assets/parte4.png)
+![Nike](/src/assets/parte2.png)
+![Nike](/src/assets/parte3.png)
+![Nike](/src/assets/parte4.png)
 
 
 ### Herramientas utilizadas:
