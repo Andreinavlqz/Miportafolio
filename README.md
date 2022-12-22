@@ -12,6 +12,7 @@ Herramientas usadas en este proyecto:
 8.	Trello
 9.	Zoom
 10.	tailwind
+
 Despliegue:  https://andreinavlqz.github.io/Miportafolio/
 Objetivo: El objetivo este proyecto fue realizar un portafolio donde se mostrara los diferentes proyectos que he realizado y mis habilidades a destacar en el desarrollo
 Estructura: Pagina principal que contiene:
