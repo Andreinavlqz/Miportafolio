@@ -1,8 +1,10 @@
 #  Portfolio Andreina
 Mockus del proyecto
-![Nike](//src/assets/portafolio1.png)
-![Nike](//src/assets/portafolio%202.png)
-![Nike](//src/assets/portafolio%204.png)
+![Nike](/src/assets/parte1.png)
+![Nike](//src/assets/parte2.png)
+![Nike](//src/assets/parte3.png)
+![Nike](//src/assets/parte4.png)
+
 
 ### Herramientas utilizadas:
 💻 1.	HTML
@@ -30,8 +32,6 @@ Instalacion de tailwind:
 Abre el terminal y escribe:
 
 ![Nike](/src/assets/tailwind.PNG)
-La opción -D es para instalar los paquetes como dependencias de la fase de desarrollo. Es decir, no estarán presentes en la versión final, porque no serán necesarias al ser herramientas de desarrollo.
-=======
 La opción -D es para instalar los paquetes como dependencias de la fase de desarrollo. Es decir, no estarán presentes en la versión final, porque no serán necesarias al ser herramientas de desarrollo.
 
 
