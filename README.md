@@ -30,4 +30,10 @@ Instalacion de tailwind:
 Abre el terminal y escribe:
 
 ![Nike](/src/assets/tailwind.PNG)
+<<<<<<< HEAD
+
 La opción -D es para instalar los paquetes como dependencias de la fase de desarrollo. Es decir, no estarán presentes en la versión final, porque no serán necesarias al ser herramientas de desarrollo.
+=======
+La opción -D es para instalar los paquetes como dependencias de la fase de desarrollo. Es decir, no estarán presentes en la versión final, porque no serán necesarias al ser herramientas de desarrollo.
+
+>>>>>>> 9eb43f0719c42c850ba3941f20ad84fe53734e4e
