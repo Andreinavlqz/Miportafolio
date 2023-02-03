@@ -1,5 +1,5 @@
 import Client from "../assets/C4BA8175922F448FBE3979A38B10DE53.jpg";
-import ClientRounded from "../assets/client rounded.png";
+
 
 const abilities = () => {
   return (

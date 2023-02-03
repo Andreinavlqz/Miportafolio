@@ -1,7 +1,7 @@
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Logo from "../assets/canva.png";
+import Logo from "../assets/Logo-AV.png";
 
 const Navbar = ({ handleSidebar }) => {
   const navbarMenu = [
@@ -27,10 +27,9 @@ const Navbar = ({ handleSidebar }) => {
     <div className="flex items-center justify-between px-10 pt-[45px]">
       <div className="flex gap-x-[100px]">
         <a href={"/"}>
-          <img
-            src={Logo}
-            className="h-[40px] w-[40px] rounded-md lg:rounded-lg xl:h-[60px] xl:w-[60px]"
-            alt="Logo"
+        <img src={Logo}
+     className="h-12 rounded-md md:h-16 rounded-lg lg:h-20 rounded-full xl:h-24"
+     alt="Logo"
           />
         </a>
         <div className="hidden items-center gap-x-[50px] font-roboto font-semibold text-white/80 lg:flex lg:text-base xl:text-xl">
