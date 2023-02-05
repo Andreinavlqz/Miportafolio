@@ -4,7 +4,7 @@ import { faStickyNote } from "@fortawesome/free-solid-svg-icons";
 import { faUser } from "@fortawesome/free-solid-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Logo from "..//assets/canva.png";
+import Logo from "../assets/Logo-AV.png";
 
 const Contact = () => {
   const contacts = [
@@ -28,11 +28,9 @@ const Contact = () => {
   return (
     <div id="contact-me">
       <div className="-mt-[15px] md:-mt-[25px] lg:-mt-[30px]">
-        <img
-          src={Logo}
-          alt="Logo"
-          className="mx-auto h-[30px] w-[30px] rounded-lg md:h-[50px] md:w-[50px] lg:h-[60px] lg:w-[60px]"
-        />
+      <div className="flex justify-center">
+  <img src={Logo} className="m-auto h-12 rounded-md md:h-16 rounded-lg lg:h-20 rounded-full xl:h-24" alt="Logo" />
+</div>
       </div>
       <div className="mx-10 flex max-w-xs flex-col justify-center gap-y-14 py-20 text-white sm:mx-auto md:max-w-xl md:gap-y-20 md:py-24 lg:max-w-none lg:flex-row lg:gap-x-14 lg:py-36 xl:gap-x-24">
         <div>
